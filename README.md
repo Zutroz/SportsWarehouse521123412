@@ -1,3 +1,3 @@
 # SportsWarehouse521123412
 
-This respritoary is a source code for the Sports Warehoue website.
+This respritoary contains the source code for the Sports Warehoue website.
