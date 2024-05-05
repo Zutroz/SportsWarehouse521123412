@@ -1,0 +1,2 @@
+git init
+git commit -m "Initial commit of v1.0-alpha: Added basic webpages and login feature."
